@@ -1,0 +1,11 @@
+[client]
+showErrorDetails = false
+
+[runner]
+fastReruns = true
+
+[theme]
+primaryColor = "#1aa3ff"
+
+[server]
+port = 80
