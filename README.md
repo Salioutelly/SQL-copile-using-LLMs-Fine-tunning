@@ -1,4 +1,4 @@
-# SQL-copile-using-LLMs-Fine-tunning
+# SQL-copilote-using-LLMs-Fine-tunning
 # 🧠 Text To SQL – Génération de Requêtes SQL à partir du Langage Naturel
 
 **Text To SQL** est un projet de NLP permettant la génération automatique de requêtes SQL à partir d’instructions en langage naturel, en utilisant un modèle de langage de grande taille (**LLM**) affiné via une méthode efficace et légère : **LoRA**.
